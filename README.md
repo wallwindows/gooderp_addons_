@@ -1,0 +1,2 @@
+# gooderp_addons
+GoodERP
